@@ -1,4 +1,4 @@
-# 🏠 Smart Home Management System (Java + OOP)
+# 🏠 Smart Home Management System (Java + OOP Principles)
 
 A fully object-oriented **Smart Home Device Management System** developed in Java.  
 Supports lamps, robot vacuums, battery management, scheduled tasks, logging, and JSON/TXT save–load features.
