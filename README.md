@@ -44,7 +44,7 @@ Supports lamps, robot vacuums, battery management, scheduled tasks, logging, and
 ## 📦 How to Run
 
 ```bash
-git clone https://github.com/<your-username>/smart-home-management-system-java.git
-cd smart-home-management-system-java
+git clone https://github.com/<your-username>/smartHome1.0-java.git
+cd smartHome1.0-java
 javac src/com/emreacr/smartHome/SmartHome.java
 java com.emreacr.smartHome.SmartHome
